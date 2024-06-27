@@ -1,42 +1,42 @@
 {
   "configUrl": "/swagger/api/swagger-config",
-  "oauth2RedirectUrl": "https://portal-swagger.dev.demo.catena-x.net/oauth2-redirect.html",
+  "oauth2RedirectUrl": "https://portal-swagger-rc.dev.demo.catena-x.net/oauth2-redirect.html",
   "urls": [
     {
       "name": "Portal Registration API",
-      "url": "https://portal-backend.dev.demo.catena-x.net/api/registration/swagger/v2/swagger.json"
+      "url": "https://portal-backend-rc.dev.demo.catena-x.net/api/registration/swagger/v2/swagger.json"
     },
     {
       "name": "Portal Administration API",
-      "url": "https://portal-backend.dev.demo.catena-x.net/api/administration/swagger/v2/swagger.json"
+      "url": "https://portal-backend-rc.dev.demo.catena-x.net/api/administration/swagger/v2/swagger.json"
     },
     {
       "name": "Portal App Marketplace API",
-      "url": "https://portal-backend.dev.demo.catena-x.net/api/apps/swagger/v2/swagger.json"
+      "url": "https://portal-backend-rc.dev.demo.catena-x.net/api/apps/swagger/v2/swagger.json"
     },
     {
       "name": "Portal Notification API",
-      "url": "https://portal-backend.dev.demo.catena-x.net/api/notification/swagger/v2/swagger.json"
+      "url": "https://portal-backend-rc.dev.demo.catena-x.net/api/notification/swagger/v2/swagger.json"
     },
     {
       "name": "Portal Services API",
-      "url": "https://portal-backend.dev.demo.catena-x.net/api/services/swagger/v2/swagger.json"
+      "url": "https://portal-backend-rc.dev.demo.catena-x.net/api/services/swagger/v2/swagger.json"
     },
     {
       "name": "Business Partner Data Management API",
-      "url": "https://business-partners.dev.demo.catena-x.net/pool/docs/api-docs/docs"
+      "url": "https://business-partners-rc.dev.demo.catena-x.net/pool/docs/api-docs/docs"
     },
     {
       "name": "AAS Registry API",
-      "url": "https://semantics.dev.demo.catena-x.net/registry/aas-registry-openapi.yaml"
+      "url": "https://semantics-rc.dev.demo.catena-x.net/registry/aas-registry-openapi.yaml"
     },
     {
       "name": "SemanticHub API",
-      "url": "https://semantics.dev.demo.catena-x.net/hub/semantic-hub-openapi.yaml"
+      "url": "https://semantics-rc.dev.demo.catena-x.net/hub/semantic-hub-openapi.yaml"
     },
     {
       "name": "IRS API",
-      "url": "http://irs.dev.demo.catena-x.net/api/api-docs"
+      "url": "http://irs-rc.dev.demo.catena-x.net/api/api-docs"
     }
   ],
   "validatorUrl": ""
